@@ -65,6 +65,10 @@ npm run preview
 
 ---
 
+## License
+
+Released under the [MIT License](LICENSE).
+
 ## 👤 Author
 
 **Awaneesh Gupta** — B.Tech CSE (AI) @ Vedam School of Technology
